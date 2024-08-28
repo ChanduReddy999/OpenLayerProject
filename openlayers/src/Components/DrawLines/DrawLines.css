@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.drawLinesMapClass{
+    width: 100vw;
+    height: 92vh;
+}
+.DrawLinesForm{
+    position: fixed;
+    right:10px;
+    top: 10px;
+}

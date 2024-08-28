@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.drawMultipleLinesMapClass {
+    width: 100vw;
+    height: 92vh;
+}
+
+.DrawMultipleLinesFormDiv {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}

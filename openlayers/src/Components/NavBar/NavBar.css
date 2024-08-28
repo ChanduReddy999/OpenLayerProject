@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navBar{
+    background-color: antiquewhite;
+    width:  100%;
+    height: 50px;
+}
+.navBarUl{
+    padding-left: 20px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.navBarLi{
+    display: flex;
+    list-style: none;
+}
+.navBarLink{
+    font-size: 20px;
+    text-decoration: none;
+}
+.GarudaImage{
+    width: 100px;
+}
